@@ -1,7 +1,7 @@
 #!/bin/bash
 # Simple test de stress TCPSYN con nping del paquete https://nmap.org/nping
 # Se requiere instalar TOR y Proxychains apt-get install tor,proxychains,curl
-# (C) hackingyseguridad.com 2017
+# (c) Antonio Taboada 2017
 # Uso: ./tortcpsyn IP puerto_TCP
 
 echo Uso: ./tortcpsyn IP puertoTCP
